@@ -1150,6 +1150,7 @@ h1 {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
+  margin: 0 auto;
   cursor: pointer;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1349,6 +1350,8 @@ h1 {
   display: -ms-flexbox;
   display: flex;
   background-color: #f8f8f8;
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
 
 .brand-slider {
@@ -1482,6 +1485,7 @@ h1 {
           align-items: center;
   margin-right: 10px;
   margin-left: 10px;
+  padding-top: 50px;
 }
 
 .form-line {
